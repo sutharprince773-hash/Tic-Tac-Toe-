@@ -19,7 +19,7 @@ AI Tic-Tac-Toe is a Python-based Artificial Intelligence mini project where a hu
 
 1. Clone this repository:
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone [YOUR_GITHUB_REPOSITORY_LINK](https://github.com/sutharprince773-hash/Tic-Tac-Toe-)
 ```
 
 2. Open the project folder.
