@@ -1,5 +1,3 @@
-# Tic-Tac-Toe-
-Ai Mini Project
 # AI Tic-Tac-Toe Game
 
 ## About the Project
